@@ -1,0 +1,39 @@
+# TEAMS
+first_round = [
+    # SOUTH
+    (Team("Auburn", seed = 1), Team("Alabama St", seed = 16)), 
+    (Team("Louisville", seed = 8), Team("Creighton", seed = 9)),
+    (Team("Michigan", seed = 5), Team("UC San Diego", seed = 12)),
+    (Team("Texas A&M", seed = 4), Team("Yale", seed = 13)),
+    (Team("Ole Miss", seed = 6), Team("North Carolina", seed = 11)),
+    (Team("Iowa State", seed = 3), Team("Lipscomb", seed = 14)),
+    (Team("Marquette", seed = 7), Team("New Mexico", seed = 10)),
+    (Team("Michigan State", seed = 2), Team("Bryant", seed = 15)),
+    # WEST
+    (Team("Florida", seed = 1), Team("Norfolk State", seed = 16)), 
+    (Team("UConn", seed = 8), Team("Oklahoma", seed = 9)),
+    (Team("Memphis", seed = 5), Team("Colorado State", seed = 12)),
+    (Team("Maryland", seed = 4), Team("Grand Canyon", seed = 13)),
+    (Team("Grand Canyon", seed = 6), Team("Drake", seed = 11)),
+    (Team("Texas Tech", seed = 3), Team("UNC Wilmington", seed = 14)),
+    (Team("Kansas", seed = 7), Team("Arkansas", seed = 10)),
+    (Team("St. John's", seed = 2), Team("Omaha", seed = 15)),
+    # EAST
+    (Team("Duke", seed = 1), Team("Mount St. Mary's", seed = 16)), 
+    (Team("Mississippi State", seed = 8), Team("Baylor", seed = 9)),
+    (Team("Oregon", seed = 5), Team("Liberty", seed = 12)),
+    (Team("Arizona", seed = 4), Team("Akron", seed = 13)),
+    (Team("BYU", seed = 6), Team("VCU", seed = 11)),
+    (Team("Wisconsin", seed = 3), Team("Montana", seed = 14)),
+    (Team("Saint Mary's", seed = 7), Team("Vanderbilt", seed = 10)),
+    (Team("Alabama", seed = 2), Team("Robert Morris", seed = 15)),
+    # MIDWEST
+    (Team("Houston", seed = 1), Team("SIU Edwardsville", seed = 16)), 
+    (Team("Gonzaga", seed = 8), Team("Georgia", seed = 9)),
+    (Team("Clemson", seed = 5), Team("McNeese", seed = 12)),
+    (Team("Purdue", seed = 4), Team("High Point", seed = 13)),
+    (Team("Illinois", seed = 6), Team("Xavier", seed = 11)),
+    (Team("Kentucky", seed = 3), Team("Troy", seed = 14)),
+    (Team("UCLA", seed = 7), Team("Utah State", seed = 10)),
+    (Team("Tennessee", seed = 2), Team("Wofford", seed = 15))
+]
